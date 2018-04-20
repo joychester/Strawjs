@@ -1,0 +1,5 @@
+---
+Domain_A: !!omap
+    - Capacity_API_1: /person/fast
+    - Capacity_API_2: /person/slow
+    - Capacity_API_3: /person/speedy

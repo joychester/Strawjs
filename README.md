@@ -3,7 +3,7 @@ a lightweight HTTPClient based on axios and ES6 features
 
 ------
 ## Preparations
-Install Node, Version had better be v8.9.0+
+> * Install Node, Version had better be v8.9.0+
 
 ```
 npm install axios
@@ -12,13 +12,13 @@ npm install axios
 npm install js-yaml
 ```
 
-Install Ruby and Gem
+> * Install Ruby and Gem
 
-Install sinatra package
+> * Install sinatra package
 ```
 gem install sinatra
 ```
-start sinatra server
+> * Start sinatra server
 ```
 ruby mock_server/sinatra_server.rb
 ```

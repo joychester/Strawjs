@@ -3,6 +3,8 @@ a lightweight HTTPClient based on axios and ES6 features
 
 ------
 ## Preparations
+Install Node, Version had better be v8.9.0+
+
 ```
 npm install axios
 ```

@@ -11,6 +11,17 @@ npm install axios
 ```
 npm install js-yaml
 ```
+
+Install Ruby and Gem
+
+Install sinatra package
+```
+gem install sinatra
+```
+start sinatra server
+```
+ruby mock_server/sinatra_server.rb
+```
 ------
 ## How to Use
 ```
